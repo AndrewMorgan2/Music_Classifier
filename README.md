@@ -1,5 +1,8 @@
 # Music Classifier
 Labeling music genres via deep learning, exsperiemnting with data augmentaion 
+##Report
+The report goes over the model's results and what they say about data augmentaion
+##Code Exsplanation
 </br>
 combine_pkl.py will combine any files in a directory, to make it run in it's local location use "./" 
 </br>
