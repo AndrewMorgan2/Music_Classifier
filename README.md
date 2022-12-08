@@ -1,2 +1,2 @@
-# Music_Classifier
+# Music Classifier
 Labeling music genres via deep learning, exsperiemnting with data augmentaion 
